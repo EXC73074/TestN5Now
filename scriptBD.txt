@@ -1,0 +1,14 @@
+create table permissionTypes(
+id int identity(1,1),
+[description] varchar(30) not null,
+constraint PK_permissionTypes primary key(id)
+);
+
+create table [permissions](
+id int identity(1,1),
+employeeName varchar(50) not null,
+employeeLastName varchar(50) not null,
+permissionType int not null,
+permissionDate date not null,
+constraint PK_permissions_permissionTypes foreign key(permissionType) references permissionTypes(id)
+);
