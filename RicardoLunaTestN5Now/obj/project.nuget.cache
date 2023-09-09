@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WlX8hlw2ZabDA4IBJ1tftohc3cZYggUnh1j+Qhk8pcpR2+zqD/oB+rSRLSJhTZm38updD04usNRADmSPaFm+jA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\natal\\Desktop\\Green_eye_team\\Proyectos\\RepoTestN5Now\\TestN5Now\\RicardoLunaTestN5Now\\RicardoLunaTestN5Now.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\natal\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
